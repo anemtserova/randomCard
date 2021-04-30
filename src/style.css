@@ -4,16 +4,12 @@ body {
   background: green;
 }
 
-.container {
-  /* width: 35 rem;
-  height: 68 rem; */
-}
-
 .card {
   width: 18rem;
   height: 28rem;
   background: cornsilk;
-  margin: 8rem auto;
+  margin: 5rem auto;
+  box-shadow: 5px 7px 3px 4px rgba(0, 0, 0, 0.2);
 }
 
 .card-suit {
@@ -22,8 +18,8 @@ body {
 }
 
 p {
-  background: tomato;
-  font-size: 3.5rem;
+  /* background: tomato; */
+  font-size: 5rem;
 }
 
 .spade,
