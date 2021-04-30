@@ -4,22 +4,34 @@ body {
   background: green;
 }
 
-#container {
-  /* width: 40 rem;
-    height: 70 rem; */
-  /* background: cadetblue; */
+.container {
+  /* width: 35 rem;
+  height: 68 rem; */
 }
 
 .card {
-  width: 28rem;
-  height: 40rem;
+  width: 18rem;
+  height: 28rem;
   background: cornsilk;
-  margin: 15rem auto;
+  margin: 8rem auto;
 }
 
 .card-suit {
-  width: 20%;
-  height: 10%;
-  background: yellow;
-  margin: 1rem;
+  /* background: yellow; */
+  border: 1px black solid;
+}
+
+p {
+  background: tomato;
+  font-size: 3.5rem;
+}
+
+.spade,
+.club {
+  color: black;
+}
+
+.heart,
+.diamonds {
+  color: red;
 }
