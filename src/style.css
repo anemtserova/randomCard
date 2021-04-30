@@ -12,6 +12,7 @@ body {
   background: cornsilk;
   margin: 5rem auto;
   box-shadow: 5px 6px 3px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 7px;
 }
 
 .number {
