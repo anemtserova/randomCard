@@ -19,13 +19,3 @@ body {
   font-size: 6rem;
   /* border: 1px black solid; */
 }
-
-.spade,
-.club {
-  color: black;
-}
-
-.heart,
-.diamonds {
-  color: red;
-}
